@@ -19,7 +19,7 @@ import server.socket.TaoServer;
 import server.socket.ThreadServer;
 
 public class MainServer extends WindowAdapter implements Runnable {
-   ImageIcon imageIcon = new ImageIcon(this.getClass().getResource("LogoTSTT.png"));
+   ImageIcon imageIcon = new ImageIcon(this.getClass().getResource("TSTT-Desktop.png"));
    public Image iconChinh;
    public TaoServer taoServer;
    GiaoDienTaoCong giaoDienTaoCong;
